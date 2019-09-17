@@ -10,6 +10,8 @@
 ```
 start vv-carrent
 ```
+## FOR SUPPORT: https://discord.gg/nfJb4bF
+
 ## DONT CHANGE THE NAME!!!! THE SCRIPT WILL BE BROKE
 
 ## Credits:
